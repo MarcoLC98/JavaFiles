@@ -1,0 +1,2 @@
+Number of unique words: 65
+Number of events of each word: {1=desarrolladores}
